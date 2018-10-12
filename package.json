@@ -30,7 +30,7 @@
     "debug": "^3.1.0",
     "get-uv-event-loop-napi-h": "^1.0.2",
     "node-addon-api": "^1.1.0",
-    "ref-napi": "^1.4.0",
+    "ref-napi": "javihernandez/ref-napi#01e128d5f49576ad35c4ffbee0fa493790c28b8f",
     "ref-struct-di": "^1.1.0"
   },
   "devDependencies": {
